@@ -1,4 +1,4 @@
-module github.com/scotttu1688/lumberjack
+module github.com/mooncake0525/lumberjack
 
 go 1.14
 
