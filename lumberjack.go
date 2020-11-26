@@ -17,7 +17,7 @@ import (
 const (
 	backupTimeFormat = "20060102"
 	compressSuffix   = ".gz"
-	defaultMaxSize   = 100
+	defaultMaxSize   = 1024
 )
 
 // ensure we always implement io.WriteCloser
